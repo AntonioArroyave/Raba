@@ -9,6 +9,7 @@ doskey clear=cls
 doskey rm=del $* 
 doskey mv=move $*
 ::Comandos propios del pograma raba
+doskey rabasave=echo $* >> C:\Users\0075\Documents\Scripts\raba\raba.bat 
 doskey rabaedit=vim C:\Users\0075\Documents\Scripts\raba\raba.bat
 ::Rutas de acceso rapido
 doskey Documentos=cd C:\Users\0075\Documents
