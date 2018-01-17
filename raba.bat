@@ -1,5 +1,6 @@
 @echo off
 ::Script para configurar la terminal  CMD de RABA en windows.
+set rabapath=chdir
 ::Verificar si los programas estan instalados
 
 ::Mapeo de comandos comunes de Windows a Linux

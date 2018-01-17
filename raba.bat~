@@ -1,5 +1,6 @@
 @echo off
 ::Script para configurar la terminal  CMD de RABA en windows.
+set rabapath=chdir
 ::Verificar si los programas estan instalados
 
 ::Mapeo de comandos comunes de Windows a Linux
@@ -26,7 +27,7 @@ doskey Programas86=cd C:\"Program Files (x86)"
 title Raba Console
 prompt Raba $G
 ::Atajos de pogramas por defecto
-doskey firefox=C:\Program Files\"Mozilla Firefox"\firefox.exe
+doskey firefox=C:\"Program Files"\Mozilla Firefox"\firefox.exe
 ::Correr los Autohoykey scripts
 start /B C:\Users\Lenovo\Raba\raba.ahk
 
