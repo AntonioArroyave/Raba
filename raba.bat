@@ -25,8 +25,9 @@ doskey Programas86=cd C:\"Program Files (x86)"
 ::Estilo
 title Raba Console
 prompt Raba $G
-::Ejecucion de pogramas por defecto
-doskey firefox=C:\Program Files\Mozilla Firefox\firefox.exe
-
+::Atajos de pogramas por defecto
+doskey firefox=C:\"Program Files"\Mozilla Firefox"\firefox.exe
+::Correr los Autohoykey scripts
+start /B C:\Users\Lenovo\Raba\raba.ahk
 
  
