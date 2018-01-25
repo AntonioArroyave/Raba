@@ -11,4 +11,13 @@ ya sea en windows o en linux. Esto es:
 		1.Terminal
 		2.Chrom
 	b.Escritura AutoHotKey/xxxxx
+	
+Lista de tareas 
+rutas dinamicas,configurar el instalador para que instancie la variable rabapath (listo)
+configuracion  automatica de autohotkey
+configuracion automatica de vim
+insercion automatica de bitacora
+Enlazar la bitacora con un archivo en google drive
+
+
 

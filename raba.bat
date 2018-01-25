@@ -1,7 +1,7 @@
 @echo off
 ::Script para configurar la terminal  CMD de RABA en windows.
-set rabadocument=C:\Users\Lenovo\Documents
-set rabapath=C:\Users\Lenovo\Raba
+set rabadocument=C:\Users\0075\Documents
+set rabapath=C:\Users\0075\Documents\Raba\
 ::Verificar si los programas estan instalados
 
 ::Mapeo de comandos comunes de Windows a Linux
