@@ -1,7 +1,8 @@
 @echo off
+pause
 ::Script para configurar la terminal  CMD de RABA en windows.
-set rabadocument=C:\Users\0075\Documents
-set rabapath=C:\Users\0075\Documents\Raba\
+::set rabadocument=C:\Users\0075\Documents
+::set rabapath=C:\Users\0075\Documents\Raba\
 ::Verificar si los programas estan instalados
 
 ::Mapeo de comandos comunes de Windows a Linux
@@ -16,9 +17,9 @@ doskey cp=copy $*
 doskey pwd=chdir
 ::Comandos propios del pograma raba
 doskey rabasave=echo $* >> %rabapath%raba.bat 
-doskey rabaedit=vim  %rabapath%raba.bat
+doskey rabaedit=vim  %rabapath%\raba.bat
 doskey cdraba=cd %rabapath%
-doskey rabainsert=echo $* >> %rabapath%raba.bat
+doskey rabainsert=echo $* >> %rabapath%\raba.bat
 ::Rutas de acceso rapido
 doskey Documentos=cd %rabadocument% 
 doskey configvim=cd C:\"Program Files (x86)"\Vim

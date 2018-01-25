@@ -43,6 +43,6 @@ botonrabapth:
  }
 configurar:
  {   
-    Run *RunAs rabainstall.bat %A_ScriptDir% ,, Hide
+    RunWait *RunAs rabainstall.bat %A_ScriptDir% %documentos% ,, Hide
     return
  }
