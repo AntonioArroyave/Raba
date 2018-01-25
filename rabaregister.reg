@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\kbdhid\Parameters]
-"rabapath"=C:\Users\0076\Raba
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Environment]
+"rabapath"=C:\\Users\\0076\\Raba
 [HKEY_CURRENT_USER\Software\Microsoft\Command Processor]
-"AutoRun"=C:\Users\0076\Raba\raba.bat
+"AutoRun"=C:\\Users\\0076\\Raba\\raba.bat
