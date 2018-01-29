@@ -1,0 +1,4 @@
+set momento=%date% 
+set escrito=%1
+set momento=%momento% %escrito% 
+echo %momento% >> %rabapath%\bitacora.txt

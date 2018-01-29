@@ -1,0 +1,1 @@
+dom. 28/01/2018  Por fin puede configurar los memos en windows, ahora paso a subirlo al git =P  
