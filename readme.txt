@@ -8,8 +8,8 @@ ya sea en windows o en linux. Esto es:
 	e.AutoHoTKey
 2:Configurar mis shortkeymaps
 	a.Acesos directos
-		1.Terminal
-		2.Chrom
+		1.Terminal listo
+		2.Chrom listo
 	b.Escritura AutoHotKey/xxxxx
 	
 Lista de tareas 
@@ -19,7 +19,7 @@ probar que la configuracion  automatica de autohotkey esta funcionando
 probar que la configuracion automatica de vim esta funcionando
 insertar logica de comprobacion de la instalaicon de choco para las demas
 opciones
-insercion automatica de bitacora
+insercion automatica de bitacora (listo) (listo)
 Enlazar la bitacora con un archivo en google drive
 
 
