@@ -18,7 +18,7 @@ doskey pwd=chdir
 doskey rabaedit=vim  %rabapath%\raba.bat
 doskey cdraba=cd %rabapath%
 doskey memo=%rabapath%\rabaBitacora.cmd $*
-doskey rbitacora=cat %rabapath%\bitacora.txt 
+doskey rbitacora=type %rabapath%\bitacora.txt 
 ::Rutas de acceso rapido
 doskey Documentos=cd %rabadocument% 
 doskey configvim=cd C:\"Program Files (x86)"\Vim

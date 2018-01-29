@@ -1,0 +1,4 @@
+Envget, programas86, ProgramFiles(x86)
+EnvSet, VimHome, %programas86%\Vim
+MsgBox %VimHome% 
+RunWait, *RunAs %comspec% /c "cp %rabapath%\Vim\_vimrc %VimHome%" 
